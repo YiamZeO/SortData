@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Asus\git again\SortData\DataGen\DataGen\main.cpp(29,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DataGen.vcxproj -> C:\Users\Asus\git again\SortData\DataGen\Debug\DataGen.exe
